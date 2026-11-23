@@ -1,6 +1,6 @@
 /* 링크 깔끔이 · 오프라인 셸 캐시
    링크는 서버로 보내지 않고 브라우저 안에서만 정리한다. */
-const CACHE = 'url-cleaner-shell-v1';
+const CACHE = 'url-cleaner-shell-v2';
 const SHELL = [
   './',
   './index.html',
